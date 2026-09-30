@@ -1,4 +1,4 @@
-package finance_assistant_backend.controller;
+package incident_investigator_backend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -8,6 +8,6 @@ public class HealthController {
 
     @GetMapping("/api/health")
     public String healthCheck() {
-        return "Finance Assistant Backend is running";
+        return "Incident Investigator Backend is running";
     }
 }

@@ -1,4 +1,4 @@
-package finance_assistant_backend.entity;
+package incident_investigator_backend.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

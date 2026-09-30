@@ -1,4 +1,4 @@
-package finance_assistant_backend;
+package incident_investigator_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
